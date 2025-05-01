@@ -28,9 +28,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muntazir-43&show_icons=true&locale=en" alt="muntazir-43" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=muntazir-43" alt="muntazir-43" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazir-43&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
+</p>
 
 ## ✍️ Quote of the Day
 

@@ -29,6 +29,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muntazir-43&show_icons=true&locale=en" alt="muntazir-43" />
 </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntazir-43&" alt="muntazir-43" />
+</div>
+
 
 
 ## ✍️ Quote of the Day

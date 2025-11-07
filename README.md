@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Muntazir Mehdi</h1>
-<h3 align="center">A passionate Full Stack Developer and AI Enthusiast from Pakistan, exploring the intersection of web technologies and machine learning.</h3>
+<h3 align="center">AI Enthusiast from Pakistan, passionate about blending intelligent systems with modern web technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 - 🌱 Currently enhancing my expertise in **PHP, Bootstrap, and .NET**.

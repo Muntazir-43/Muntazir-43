@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi, I'm Muntazir Mehdi 👋</h1>
 <h3 align="center">AI/ML Developer | Computer Vision | Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 - 🤖 **AI/ML:** Machine Learning, Deep Learning, model evaluation, and data preprocessing
   

@@ -26,7 +26,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Muntazir-43&color=blue)
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 <h4>Currently focusing on AI integration with full-stack development using React, TensorFlow, and Node.js.</h4>
 
 <p align="left">

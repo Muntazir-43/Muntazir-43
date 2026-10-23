@@ -1,13 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Muntazir Mehdi</h1>
-<h3 align="center">AI Enthusiast from Pakistan, passionate about blending intelligent systems with modern web technologies.</h3>
+<h1 align="center">Hi, I'm Muntazir Mehdi 👋</h1>
+<h3 align="center">AI/ML Developer | Computer Vision | Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 🌱 Currently enhancing my expertise in **PHP, Bootstrap, and .NET**.
+- 🤖 **AI/ML:** Machine Learning, Deep Learning, model evaluation, and data preprocessing
   
-- 💬 Experienced in **Python, C++, and Full-Stack Web Development**.
+- 👁️ **Computer Vision:** OpenCV, image processing, and applied vision projects.
+
+- 🛠️ **Development:** Python, PyTorch, TensorFlow, Git, and REST APIs
+
+- 🚀 **Featured Projects:** ECG Image Digitization, CIBMTR Survival Prediction, and Intario AI
+
+- 🎯 **Currently seeking:** AI/ML internships and entry-level opportunities
   
-- 📫 Reach out via email: **muntazir.mehdi.baltistani@gmail.com**.  
+- 📫 Reach out via email: **muntazir.mehdi.baltistani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
